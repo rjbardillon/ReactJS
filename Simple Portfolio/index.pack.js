@@ -478,7 +478,7 @@ if (process.env.NODE_ENV === 'production') {
 /* 6 */
 /***/ (function(module, exports) {
 
-throw new Error("Module parse failed: C:\\Users\\romsk\\Coding\\Web Development\\ReactJS\\ReactJS\\Simple Portfolio\\components\\profile.jpg Unexpected character '�' (1:0)\nYou may need an appropriate loader to handle this file type.\n(Source code omitted for this binary file)");
+throw new Error("Module parse failed: C:\\Users\\romsk\\Coding\\Web Development\\ReactJS\\Simple Portfolio\\images\\profile.jpg Unexpected character '�' (1:0)\nYou may need an appropriate loader to handle this file type.\n(Source code omitted for this binary file)");
 
 /***/ }),
 /* 7 */

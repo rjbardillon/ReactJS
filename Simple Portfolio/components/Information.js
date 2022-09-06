@@ -1,10 +1,10 @@
 import React from "react"
-import Profile from "./profile.jpg"
+import profileImage from "../images/profile.jpg"
 
 export default function Information() {
     return(
         <div className="information">
-            <img src={Profile} alt="Profile" className="profile"/>
+            <img src={profileImage} alt="Profile" className="profile"/>
             <h1>Romeo Jr Bardillon</h1>
             <h4>College Student</h4>
             <small>Santa Rosa, Laguna</small>
