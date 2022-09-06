@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(219, 208, 208);
+}
+
+.container {
+    margin: 20px;
+    padding: 20px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-items {
+    list-style: none;
+    display: flex;
+}
+
+.nav-items > li {
+    padding: 10px;
+}
