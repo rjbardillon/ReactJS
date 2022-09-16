@@ -576,7 +576,7 @@ function Information() {
     return _react2.default.createElement(
         "div",
         { className: "information" },
-        _react2.default.createElement("img", { src: "profile.jpg", alt: "Profile", className: "profile" }),
+        _react2.default.createElement("img", { src: "public/images/profile.jpg", alt: "Profile", className: "profile" }),
         _react2.default.createElement(
             "h1",
             null,

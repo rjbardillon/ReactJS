@@ -6,9 +6,9 @@ export default function Header(props) {
             <img className="card--img" src={props.imageUrl} />
             <div className="card--stats">
                 <div className="card--location">
-                    <img src="location.png" className="card--location-icon" />
+                    <img src="images/location.png" className="card--location-icon" />
                     <span>{props.location}</span>
-                    <span><a className="links" href={props.googleMapsUrl}>View on Google Maps</a></span>
+                    <span><a className="links" href={props.googleMapsUrl} target="__blank">View on Google Maps</a></span>
                 </div>
                 <h1>{props.title}</h1>
                 <h5 className="bold">{props.startDate} - {props.endDate}</h5>
