@@ -503,7 +503,7 @@ function Header() {
     return _react2.default.createElement(
         "div",
         { className: "header" },
-        _react2.default.createElement("img", { className: "navbar--brand", src: "../images/globe.png", alt: "logo" }),
+        _react2.default.createElement("img", { className: "navbar--brand", src: "globe.png", alt: "logo" }),
         _react2.default.createElement(
             "h5",
             { className: "navbar--text" },
@@ -541,7 +541,7 @@ function Header(props) {
             _react2.default.createElement(
                 "div",
                 { className: "card--location" },
-                _react2.default.createElement("img", { src: "../images/location.png", className: "card--location-icon" }),
+                _react2.default.createElement("img", { src: "location.png", className: "card--location-icon" }),
                 _react2.default.createElement(
                     "span",
                     null,
